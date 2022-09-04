@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.229117f2.css",
-    "main.js": "/portfolio/static/js/main.2593ac3f.js",
+    "main.css": "/portfolio/static/css/main.7525dfb6.css",
+    "main.js": "/portfolio/static/js/main.8f993791.js",
     "static/media/img1.jpg": "/portfolio/static/media/img1.0384c72066ed9f5921a9.jpg",
-    "static/media/bootstrap-project1.PNG": "/portfolio/static/media/bootstrap-project1.162745b557121bd97c7e.PNG",
     "static/media/home_img.jpg": "/portfolio/static/media/home_img.9decca57062cccc42695.jpg",
+    "static/media/next_img.jpg": "/portfolio/static/media/next_img.be1668d447775b0c5bc4.jpg",
     "static/media/pizza.JPG": "/portfolio/static/media/pizza.5d0f86ebb7dd81259f33.JPG",
     "static/media/react.png": "/portfolio/static/media/react.8a6fc0a24a800d1e0f4a.png",
     "static/media/sass.png": "/portfolio/static/media/sass.aa16d6441e3e941f60c1.png",
@@ -30,11 +30,11 @@
     "static/media/ReactBootstrapIcon.png": "/portfolio/static/media/ReactBootstrapIcon.b3d20c37d87555717fb9.png",
     "static/media/html.png": "/portfolio/static/media/html.ff3cf75e3b7cbb4ea77c.png",
     "index.html": "/portfolio/index.html",
-    "main.229117f2.css.map": "/portfolio/static/css/main.229117f2.css.map",
-    "main.2593ac3f.js.map": "/portfolio/static/js/main.2593ac3f.js.map"
+    "main.7525dfb6.css.map": "/portfolio/static/css/main.7525dfb6.css.map",
+    "main.8f993791.js.map": "/portfolio/static/js/main.8f993791.js.map"
   },
   "entrypoints": [
-    "static/css/main.229117f2.css",
-    "static/js/main.2593ac3f.js"
+    "static/css/main.7525dfb6.css",
+    "static/js/main.8f993791.js"
   ]
 }
