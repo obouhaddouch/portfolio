@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c4a45700.css",
-    "main.js": "/portfolio/static/js/main.938b00c2.js",
+    "main.js": "/portfolio/static/js/main.4bbd7ffb.js",
     "static/media/img1.jpg": "/portfolio/static/media/img1.0384c72066ed9f5921a9.jpg",
     "static/media/home_img.jpg": "/portfolio/static/media/home_img.9decca57062cccc42695.jpg",
     "static/media/next_img.jpg": "/portfolio/static/media/next_img.be1668d447775b0c5bc4.jpg",
@@ -27,14 +27,15 @@
     "static/media/bootstrap.png": "/portfolio/static/media/bootstrap.87b2b41e1d703d5fc6c1.png",
     "static/media/css.png": "/portfolio/static/media/css.84de5dab5fab27f4161c.png",
     "static/media/XO.PNG": "/portfolio/static/media/XO.05f7cece2f0d7da68913.PNG",
+    "static/media/symfony.png": "/portfolio/static/media/symfony.f7f691d4a1a75f11e4ed.png",
     "static/media/ReactBootstrapIcon.png": "/portfolio/static/media/ReactBootstrapIcon.b3d20c37d87555717fb9.png",
     "static/media/html.png": "/portfolio/static/media/html.ff3cf75e3b7cbb4ea77c.png",
     "index.html": "/portfolio/index.html",
     "main.c4a45700.css.map": "/portfolio/static/css/main.c4a45700.css.map",
-    "main.938b00c2.js.map": "/portfolio/static/js/main.938b00c2.js.map"
+    "main.4bbd7ffb.js.map": "/portfolio/static/js/main.4bbd7ffb.js.map"
   },
   "entrypoints": [
     "static/css/main.c4a45700.css",
-    "static/js/main.938b00c2.js"
+    "static/js/main.4bbd7ffb.js"
   ]
 }
